@@ -7,6 +7,7 @@ It includes a sidebar, music library, cards, and a bottom music player.
 ## Live Demo  
 https://macnac-c.github.io/SPOTIFY-CLONE---PROJECT/ 
 
+
 ## Features  
 - Sidebar with navigation  
 - Music library section  
@@ -19,5 +20,10 @@ https://macnac-c.github.io/SPOTIFY-CLONE---PROJECT/
 
 ## Assets  
 Placed all images inside an **assets/** folder.  
+
+## Notes  
+🔹 This project is currently **optimized for desktop view**.  
+🔹 Mobile view may not display correctly.  
+
 
 ---
