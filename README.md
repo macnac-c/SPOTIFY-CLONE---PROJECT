@@ -25,5 +25,12 @@ Placed all images inside an **assets/** folder.
 🔹 This project is currently **optimized for desktop view**.  
 🔹 Mobile view may not display correctly.  
 
-
 ---
+
+## Screenshots  
+
+### Home Page  
+![Home Page](images/new1.png)
+
+### Music Player  
+![Music Player](images/new2.png)
