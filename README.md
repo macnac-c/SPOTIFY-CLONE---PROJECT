@@ -21,7 +21,7 @@ https://macnac-c.github.io/SPOTIFY-CLONE---PROJECT/
 ## Assets  
 Placed all images inside an **assets/** folder.  
 
-## Notes  
+## Note  
 🔹 This project is currently **optimized for desktop view**.  
 🔹 Mobile view may not display correctly.  
 
